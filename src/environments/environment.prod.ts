@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  serviceUrl: "https://express101-api-wasok.herokuapp.com"
+  serviceUrl: "https://express101-thankait.herokuapp.com"
 };
